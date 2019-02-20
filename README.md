@@ -8,3 +8,7 @@
 # 由于是第一个项目和寒假练手的东西
     1. 逻辑结构不够清晰
     2. 并且也没有全部完善，比如有些链接还没加上
+
+![图片名称](https://github.com/dejavudwh/Online-Shopping/blob/master/showImg/show1.png) 
+
+![图片名称](https://github.com/dejavudwh/Online-Shopping/blob/master/showImg/show2.png) 
